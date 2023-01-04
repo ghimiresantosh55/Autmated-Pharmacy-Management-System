@@ -1,1 +1,1 @@
-# easycare-backend
+# Automated Pharmacy Management System
